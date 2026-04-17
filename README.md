@@ -1,11 +1,23 @@
-# TensorTonic Solutions
+# TensorTonic-Solutions
 
-Welcome to my TensorTonic solutions repository!
+A structured platform for practicing **Machine Learning and Data Science problems** — inspired by LeetCode, but focused on real-world ML workflows.
 
-Here you'll find my solutions to various machine learning and deep learning problems from [TensorTonic](https://tensortonic.com).
+---
 
-## What is TensorTonic?
+## Concept
+TensorTonic-Solutions is designed as a **practice-driven repository** where machine learning is learned by solving problems, not just studying theory.
 
-TensorTonic is a platform where you can implement core algorithms of Machine Learning from scratch.
+The goal is to build strong intuition in:
+- Data preprocessing  
+- Feature engineering  
+- Model building  
+- Evaluation and improvement  
 
-This repository contains my personal solutions to these problems, automatically synchronized from the platform.
+---
+
+## What This Repository Offers
+- Curated machine learning practice problems    
+- Focus on **real-world datasets and workflows**  
+- Emphasis on **implementation over theory**
+
+---
