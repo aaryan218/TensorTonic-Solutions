@@ -1,23 +1,32 @@
 # TensorTonic-Solutions
 
-A structured platform for practicing **Machine Learning and Data Science problems** — inspired by LeetCode, but focused on real-world ML workflows.
+A structured collection of Machine Learning and Data Science solutions focused on learning through implementation.
 
----
+Inspired by platforms like LeetCode, TensorTonic-Solutions emphasizes solving practical ML problems using real-world workflows instead of relying solely on theoretical study.
 
-## Concept
-TensorTonic-Solutions is designed as a **practice-driven repository** where machine learning is learned by solving problems, not just studying theory.
+The repository is designed to help learners build strong intuition in:
 
-The goal is to build strong intuition in:
-- Data preprocessing  
-- Feature engineering  
-- Model building  
-- Evaluation and improvement  
+* Data preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature engineering
+* Model development
+* Model evaluation
+* Optimization and experimentation
 
----
+## Features
 
-## What This Repository Offers
-- Curated machine learning practice problems    
-- Focus on **real-world datasets and workflows**  
-- Emphasis on **implementation over theory**
+* Curated ML and Data Science practice problems
+* Real-world datasets and workflows
+* End-to-end implementation-focused solutions
+* Clean and structured project organization
+* Practical coding exercises for ML fundamentals
 
----
+## Tech Stack
+
+* Python
+* NumPy
+
+
+## Goal
+
+The goal of TensorTonic-Solutions is to create a hands-on learning ecosystem where machine learning is mastered through consistent practice, experimentation, and problem solving.
