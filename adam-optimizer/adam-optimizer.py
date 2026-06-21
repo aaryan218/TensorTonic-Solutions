@@ -30,7 +30,7 @@ def adam_step(param, grad, m, v, t, lr=1e-3, beta1=0.9, beta2=0.999, eps=1e-8):
 '''
 At early steps, m and v are biased toward zero because they start at 0.
 
-So you correct them using timestep t:
+So we correct them using timestep t:
 
 Divide m by (1 - beta1^t)
 Divide v by (1 - beta2^t)
