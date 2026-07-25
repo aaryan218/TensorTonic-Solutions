@@ -1,0 +1,1 @@
+Input data → Convert to NumPy array → Find column minimums → Find column maximums → Apply Min-Max Scaling → Return a Python list
